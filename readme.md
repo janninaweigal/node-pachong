@@ -1,1 +1,2 @@
-npm install request cheerio iconv-lite mysql async -save
+# node-pachong
+nodejs 爬虫
