@@ -1,0 +1,1 @@
+npm install request cheerio iconv-lite mysql async -save
